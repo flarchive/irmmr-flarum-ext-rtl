@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of irmmr/flarum-ext-rtl.** Not for installation: use [Packagist](https://packagist.org/packages/irmmr/flarum-ext-rtl) or the [upstream repository](https://github.com/irmmr/flarum-ext-rtl).
 
-**0** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^2.0.0`
+**29** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `V0.0.1` | 2021-12-10 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.0.1) |
+| `V0.0.2` | 2021-12-10 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.0.2) |
+| `V0.0.3` | 2021-12-10 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.0.3) |
+| `V0.0.4` | 2021-12-11 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.0.4) |
+| `V0.0.5` | 2021-12-11 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.0.5) |
+| `V0.0.6` | 2021-12-11 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.0.6) |
+| `V0.0.7` | 2021-12-11 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.0.7) |
+| `V0.0.8` | 2021-12-11 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.0.8) |
+| `V0.0.9` | 2021-12-12 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.0.9) |
+| `V0.1.0` | 2021-12-13 | `^v1.1.1` | [Browse](https://github.com/flarchive/irmmr-flarum-ext-rtl/tree/archive/v0.1.0) |
+
+[View all 29 versions](https://github.com/flarchive/irmmr-flarum-ext-rtl/tags)
 
 Catalog entry: [packages/irmmr-flarum-ext-rtl.json](https://github.com/flarchive/archive-index/blob/main/packages/irmmr-flarum-ext-rtl.json)
 
